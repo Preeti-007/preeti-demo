@@ -1,3 +1,3 @@
 # preeti-demo
-This is my first git repository.
-Author - Preetikumari 
+This is my first git repository.<br>
+Author - Preeti kumari 
